@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 I’m learning Full-stack Developing
+- 🌱 I’m a Full-stack Developer
 - 💬 Ask me about Microverse
 - I’m currently open for a new job opportunity
 - **Front-End Development**:
